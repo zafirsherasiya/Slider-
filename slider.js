@@ -1,7 +1,7 @@
 const slide = [
-  { id: 1, image: "https://images.pexels.com/photos/1054655/pexels-photo-1054655.jpeg" },
-  { id: 2, image: "https://ik.imagekit.io/serenity/ByteofDev/Blog_Content_Images/tr:f-jpg/speed_up_images_original_R8oje17ew" },
-  { id: 3, image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdPFA6r_IbzQJcyXrKT5TSritv0S_iWwFmw&s" },
+  { id: 1, image: "https://en.wikipedia.org/wiki/Image" },
+  { id: 2, image: "https://www.wearegecko.co.uk/blog/how-to-optimise-images-for-the-web-without-losing-quality/" },
+  { id: 3, image: "https://media.istockphoto.com/id/665698842/photo/mountain.jpg?s=612x612&w=is&k=20&c=UYck5fgIyc_rjlHc9Nmq25QV3NEWcrzUi2_OwvoOGJk=" },
 ];
 
 function slideShow() {
